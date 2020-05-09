@@ -1,1 +1,1 @@
-docker build . -t mjbright/docker-hugo-webslides
+docker build . -t mjbright/hugo-webslides
